@@ -1,0 +1,8 @@
+certifi==2020.12.5
+cffi==1.14.5
+chardet==4.0.0
+cryptography==3.4.6
+pdfminer.six==20201018
+pdftotext==2.1.5
+pycparser==2.20
+sortedcontainers==2.3.0
